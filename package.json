@@ -1,0 +1,23 @@
+{
+  "name": "node_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "console-colours.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://spinhalf-com@github.com/spinhalf-com/node_course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spinhalf-com/node_course/issues"
+  },
+  "dependencies": {
+    "colors": "latest",
+    "underscore": "latest"
+  },
+  "homepage": "https://github.com/spinhalf-com/node_course#readme"
+}
